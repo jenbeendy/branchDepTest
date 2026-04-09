@@ -1,1 +1,1 @@
-zmena ve firstBranch
+zmena v secBranch
